@@ -43,4 +43,4 @@ def view_customer_data(database_name, table_name):
 if __name__ == "__main__":
     # Replace 'your_table_name' with the actual name of your table in customers_info.db
     # Common names might be 'customers', 'users', or 'customer_data'
-    view_customer_data('customers_info.db', 'customers')
+    view_customer_data('customer_info.db', 'customers')
